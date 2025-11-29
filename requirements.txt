@@ -1,5 +1,3 @@
 fastapi
 uvicorn
-dnspython
-pydantic
-email-validator
+
